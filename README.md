@@ -1,2 +1,4 @@
 # Wasserstein-Kaplan-Meier-Survival-Regression
-Code for the paper "Wasserstein-Kaplan-Meier Survival Regression"
+This repository contains the implementation for the paper "Wasserstein-Kaplan-Meier Survival Regression" in R.
+
+The `wkm` function, short for Wasserstein-Kaplan-Meier Survival Regression, is designed for analyzing survival data from heterogeneous populations. This function requires a data frame (`df`) containing columns for survival time (`time`), censoring indicator (`censor`), and other covariates. The key purpose of this function is to estimate survival functions for different subgroups defined by the covariates. Control options (`optns`) can be specified to adjust the behavior of the estimation process, including setting lower and upper bounds of the support of the measure. The output is a `wkm` object containing quantile functions (`qFit`) corresponding to the provided data, the domain grid of these quantile functions (`qFitSup`), the input data frame (`df`), and the specified control options (`optns`). 
