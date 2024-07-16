@@ -1,0 +1,1706 @@
+--- 2024-06-23 10:31:59.018199 ---
+epoch 0
+early stop metric: 1.139192
+Phase: valid, metric: survival_loss: 1.139192
+Phase: test, metric: survival_loss: 1.119096
+--- 2024-06-23 10:31:59.165119 ---
+epoch 1
+early stop metric: 0.973352
+Phase: valid, metric: survival_loss: 0.973352
+Phase: test, metric: survival_loss: 0.964938
+--- 2024-06-23 10:31:59.330943 ---
+epoch 2
+early stop metric: 0.879458
+Phase: valid, metric: survival_loss: 0.879458
+Phase: test, metric: survival_loss: 0.879195
+--- 2024-06-23 10:31:59.441183 ---
+epoch 3
+early stop metric: 0.825253
+Phase: valid, metric: survival_loss: 0.825253
+Phase: test, metric: survival_loss: 0.830684
+--- 2024-06-23 10:31:59.550714 ---
+epoch 4
+early stop metric: 0.789533
+Phase: valid, metric: survival_loss: 0.789533
+Phase: test, metric: survival_loss: 0.799243
+--- 2024-06-23 10:31:59.712713 ---
+epoch 5
+early stop metric: 0.765435
+Phase: valid, metric: survival_loss: 0.765435
+Phase: test, metric: survival_loss: 0.777501
+--- 2024-06-23 10:31:59.816651 ---
+epoch 6
+early stop metric: 0.746653
+Phase: valid, metric: survival_loss: 0.746653
+Phase: test, metric: survival_loss: 0.761754
+--- 2024-06-23 10:31:59.919095 ---
+epoch 7
+early stop metric: 0.735044
+Phase: valid, metric: survival_loss: 0.735044
+Phase: test, metric: survival_loss: 0.750773
+--- 2024-06-23 10:32:00.025504 ---
+epoch 8
+early stop metric: 0.724936
+Phase: valid, metric: survival_loss: 0.724936
+Phase: test, metric: survival_loss: 0.742494
+--- 2024-06-23 10:32:00.186332 ---
+epoch 9
+early stop metric: 0.716545
+Phase: valid, metric: survival_loss: 0.716545
+Phase: test, metric: survival_loss: 0.734960
+--- 2024-06-23 10:32:00.290134 ---
+epoch 10
+early stop metric: 0.708604
+Phase: valid, metric: survival_loss: 0.708604
+Phase: test, metric: survival_loss: 0.727424
+--- 2024-06-23 10:32:00.395514 ---
+epoch 11
+early stop metric: 0.704195
+Phase: valid, metric: survival_loss: 0.704195
+Phase: test, metric: survival_loss: 0.723287
+--- 2024-06-23 10:32:00.551552 ---
+epoch 12
+early stop metric: 0.699254
+Phase: valid, metric: survival_loss: 0.699254
+Phase: test, metric: survival_loss: 0.719398
+--- 2024-06-23 10:32:00.655592 ---
+epoch 13
+early stop metric: 0.695593
+Phase: valid, metric: survival_loss: 0.695593
+Phase: test, metric: survival_loss: 0.715974
+--- 2024-06-23 10:32:00.759784 ---
+epoch 14
+early stop metric: 0.691671
+Phase: valid, metric: survival_loss: 0.691671
+Phase: test, metric: survival_loss: 0.712751
+--- 2024-06-23 10:32:00.914959 ---
+epoch 15
+early stop metric: 0.688172
+Phase: valid, metric: survival_loss: 0.688172
+Phase: test, metric: survival_loss: 0.710412
+--- 2024-06-23 10:32:01.020095 ---
+epoch 16
+early stop metric: 0.687282
+Phase: valid, metric: survival_loss: 0.687282
+Phase: test, metric: survival_loss: 0.709509
+--- 2024-06-23 10:32:01.126101 ---
+epoch 17
+early stop metric: 0.683481
+Phase: valid, metric: survival_loss: 0.683481
+Phase: test, metric: survival_loss: 0.706458
+--- 2024-06-23 10:32:01.295563 ---
+epoch 18
+early stop metric: 0.682274
+Phase: valid, metric: survival_loss: 0.682274
+Phase: test, metric: survival_loss: 0.705877
+--- 2024-06-23 10:32:01.401798 ---
+epoch 19
+early stop metric: 0.681413
+Phase: valid, metric: survival_loss: 0.681413
+Phase: test, metric: survival_loss: 0.704547
+--- 2024-06-23 10:32:01.504751 ---
+epoch 20
+early stop metric: 0.676841
+Phase: valid, metric: survival_loss: 0.676841
+Phase: test, metric: survival_loss: 0.701692
+--- 2024-06-23 10:32:01.609471 ---
+epoch 21
+early stop metric: 0.676550
+Phase: valid, metric: survival_loss: 0.676550
+Phase: test, metric: survival_loss: 0.701042
+--- 2024-06-23 10:32:01.761890 ---
+epoch 22
+early stop metric: 0.676913
+Phase: valid, metric: survival_loss: 0.676913
+Phase: test, metric: survival_loss: 0.701225
+--- 2024-06-23 10:32:01.864336 ---
+epoch 23
+early stop metric: 0.673377
+Phase: valid, metric: survival_loss: 0.673377
+Phase: test, metric: survival_loss: 0.698479
+--- 2024-06-23 10:32:01.969817 ---
+epoch 24
+early stop metric: 0.671622
+Phase: valid, metric: survival_loss: 0.671622
+Phase: test, metric: survival_loss: 0.697240
+--- 2024-06-23 10:32:02.073746 ---
+epoch 25
+early stop metric: 0.671389
+Phase: valid, metric: survival_loss: 0.671389
+Phase: test, metric: survival_loss: 0.697438
+--- 2024-06-23 10:32:02.224355 ---
+epoch 26
+early stop metric: 0.671051
+Phase: valid, metric: survival_loss: 0.671051
+Phase: test, metric: survival_loss: 0.697118
+--- 2024-06-23 10:32:02.330960 ---
+epoch 27
+early stop metric: 0.669897
+Phase: valid, metric: survival_loss: 0.669897
+Phase: test, metric: survival_loss: 0.695488
+--- 2024-06-23 10:32:02.440162 ---
+epoch 28
+early stop metric: 0.669758
+Phase: valid, metric: survival_loss: 0.669758
+Phase: test, metric: survival_loss: 0.695515
+--- 2024-06-23 10:32:02.594395 ---
+epoch 29
+early stop metric: 0.670978
+Phase: valid, metric: survival_loss: 0.670978
+Phase: test, metric: survival_loss: 0.696893
+--- 2024-06-23 10:32:02.697298 ---
+epoch 30
+early stop metric: 0.667310
+Phase: valid, metric: survival_loss: 0.667310
+Phase: test, metric: survival_loss: 0.694159
+--- 2024-06-23 10:32:02.802673 ---
+epoch 31
+early stop metric: 0.668840
+Phase: valid, metric: survival_loss: 0.668840
+Phase: test, metric: survival_loss: 0.696244
+--- 2024-06-23 10:32:02.906628 ---
+epoch 32
+early stop metric: 0.667758
+Phase: valid, metric: survival_loss: 0.667758
+Phase: test, metric: survival_loss: 0.695290
+--- 2024-06-23 10:32:03.056078 ---
+epoch 33
+early stop metric: 0.666797
+Phase: valid, metric: survival_loss: 0.666797
+Phase: test, metric: survival_loss: 0.695648
+--- 2024-06-23 10:32:03.160815 ---
+epoch 34
+early stop metric: 0.667388
+Phase: valid, metric: survival_loss: 0.667388
+Phase: test, metric: survival_loss: 0.695812
+--- 2024-06-23 10:32:03.266154 ---
+epoch 35
+early stop metric: 0.665593
+Phase: valid, metric: survival_loss: 0.665593
+Phase: test, metric: survival_loss: 0.695326
+--- 2024-06-23 10:32:03.422392 ---
+epoch 36
+early stop metric: 0.665864
+Phase: valid, metric: survival_loss: 0.665864
+Phase: test, metric: survival_loss: 0.695232
+--- 2024-06-23 10:32:03.527506 ---
+epoch 37
+early stop metric: 0.664850
+Phase: valid, metric: survival_loss: 0.664850
+Phase: test, metric: survival_loss: 0.696003
+--- 2024-06-23 10:32:03.631872 ---
+epoch 38
+early stop metric: 0.665294
+Phase: valid, metric: survival_loss: 0.665294
+Phase: test, metric: survival_loss: 0.696500
+--- 2024-06-23 10:32:03.737087 ---
+epoch 39
+early stop metric: 0.665003
+Phase: valid, metric: survival_loss: 0.665003
+Phase: test, metric: survival_loss: 0.695476
+--- 2024-06-23 10:32:03.889928 ---
+epoch 40
+early stop metric: 0.664355
+Phase: valid, metric: survival_loss: 0.664355
+Phase: test, metric: survival_loss: 0.695361
+--- 2024-06-23 10:32:03.993038 ---
+epoch 41
+early stop metric: 0.665136
+Phase: valid, metric: survival_loss: 0.665136
+Phase: test, metric: survival_loss: 0.697491
+--- 2024-06-23 10:32:04.096282 ---
+epoch 42
+early stop metric: 0.664084
+Phase: valid, metric: survival_loss: 0.664084
+Phase: test, metric: survival_loss: 0.697549
+--- 2024-06-23 10:32:04.252636 ---
+epoch 43
+early stop metric: 0.665787
+Phase: valid, metric: survival_loss: 0.665787
+Phase: test, metric: survival_loss: 0.698699
+--- 2024-06-23 10:32:04.358340 ---
+epoch 44
+early stop metric: 0.666103
+Phase: valid, metric: survival_loss: 0.666103
+Phase: test, metric: survival_loss: 0.698971
+--- 2024-06-23 10:32:04.461282 ---
+epoch 45
+early stop metric: 0.664807
+Phase: valid, metric: survival_loss: 0.664807
+Phase: test, metric: survival_loss: 0.698242
+--- 2024-06-23 10:32:04.614959 ---
+epoch 46
+early stop metric: 0.664198
+Phase: valid, metric: survival_loss: 0.664198
+Phase: test, metric: survival_loss: 0.698676
+--- 2024-06-23 10:32:04.717745 ---
+epoch 47
+early stop metric: 0.665025
+Phase: valid, metric: survival_loss: 0.665025
+Phase: test, metric: survival_loss: 0.699479
+--- 2024-06-23 10:32:04.822886 ---
+epoch 48
+early stop metric: 0.667672
+Phase: valid, metric: survival_loss: 0.667672
+Phase: test, metric: survival_loss: 0.701732
+--- 2024-06-23 10:32:04.927885 ---
+epoch 49
+step    10 total loss: 0.503770
+early stop metric: 0.665799
+Phase: valid, metric: survival_loss: 0.665799
+Phase: test, metric: survival_loss: 0.701141
+--- 2024-06-23 10:32:05.079559 ---
+epoch 50
+early stop metric: 0.666032
+Phase: valid, metric: survival_loss: 0.666032
+Phase: test, metric: survival_loss: 0.700694
+--- 2024-06-23 10:32:05.182948 ---
+epoch 51
+early stop metric: 0.665449
+Phase: valid, metric: survival_loss: 0.665449
+Phase: test, metric: survival_loss: 0.701997
+--- 2024-06-23 10:32:05.287097 ---
+epoch 52
+early stop metric: 0.664949
+Phase: valid, metric: survival_loss: 0.664949
+Phase: test, metric: survival_loss: 0.702209
+--- 2024-06-23 10:39:37.808091 ---
+epoch 0
+early stop metric: 1.156662
+Phase: valid, metric: survival_loss: 1.156662
+Phase: test, metric: survival_loss: 1.129486
+--- 2024-06-23 10:39:41.999915 ---
+epoch 1
+early stop metric: 0.978106
+Phase: valid, metric: survival_loss: 0.978106
+Phase: test, metric: survival_loss: 0.969023
+--- 2024-06-23 10:39:42.229889 ---
+epoch 2
+early stop metric: 0.874308
+Phase: valid, metric: survival_loss: 0.874308
+Phase: test, metric: survival_loss: 0.878561
+--- 2024-06-23 10:39:42.454255 ---
+epoch 3
+early stop metric: 0.815633
+Phase: valid, metric: survival_loss: 0.815633
+Phase: test, metric: survival_loss: 0.829041
+--- 2024-06-23 10:39:42.722682 ---
+epoch 4
+early stop metric: 0.778194
+Phase: valid, metric: survival_loss: 0.778194
+Phase: test, metric: survival_loss: 0.797458
+--- 2024-06-23 10:39:42.942223 ---
+epoch 5
+early stop metric: 0.754790
+Phase: valid, metric: survival_loss: 0.754790
+Phase: test, metric: survival_loss: 0.776684
+--- 2024-06-23 10:39:43.160517 ---
+epoch 6
+early stop metric: 0.737275
+Phase: valid, metric: survival_loss: 0.737275
+Phase: test, metric: survival_loss: 0.761921
+--- 2024-06-23 10:39:43.438773 ---
+epoch 7
+early stop metric: 0.727334
+Phase: valid, metric: survival_loss: 0.727334
+Phase: test, metric: survival_loss: 0.752181
+--- 2024-06-23 10:39:43.672804 ---
+epoch 8
+early stop metric: 0.718706
+Phase: valid, metric: survival_loss: 0.718706
+Phase: test, metric: survival_loss: 0.744927
+--- 2024-06-23 10:39:43.891385 ---
+epoch 9
+early stop metric: 0.711472
+Phase: valid, metric: survival_loss: 0.711472
+Phase: test, metric: survival_loss: 0.737770
+--- 2024-06-23 10:39:44.109462 ---
+epoch 10
+early stop metric: 0.705108
+Phase: valid, metric: survival_loss: 0.705108
+Phase: test, metric: survival_loss: 0.731420
+--- 2024-06-23 10:39:44.375711 ---
+epoch 11
+early stop metric: 0.701355
+Phase: valid, metric: survival_loss: 0.701355
+Phase: test, metric: survival_loss: 0.727416
+--- 2024-06-23 10:39:44.597290 ---
+epoch 12
+early stop metric: 0.697926
+Phase: valid, metric: survival_loss: 0.697926
+Phase: test, metric: survival_loss: 0.725038
+--- 2024-06-23 10:39:44.815990 ---
+epoch 13
+early stop metric: 0.695108
+Phase: valid, metric: survival_loss: 0.695108
+Phase: test, metric: survival_loss: 0.721927
+--- 2024-06-23 10:39:45.087303 ---
+epoch 14
+early stop metric: 0.691586
+Phase: valid, metric: survival_loss: 0.691586
+Phase: test, metric: survival_loss: 0.719059
+--- 2024-06-23 10:39:45.326069 ---
+epoch 15
+early stop metric: 0.688626
+Phase: valid, metric: survival_loss: 0.688626
+Phase: test, metric: survival_loss: 0.717318
+--- 2024-06-23 10:39:45.556937 ---
+epoch 16
+early stop metric: 0.688459
+Phase: valid, metric: survival_loss: 0.688459
+Phase: test, metric: survival_loss: 0.717297
+--- 2024-06-23 10:39:45.842633 ---
+epoch 17
+early stop metric: 0.685365
+Phase: valid, metric: survival_loss: 0.685365
+Phase: test, metric: survival_loss: 0.714615
+--- 2024-06-23 10:39:46.070931 ---
+epoch 18
+early stop metric: 0.684613
+Phase: valid, metric: survival_loss: 0.684613
+Phase: test, metric: survival_loss: 0.714702
+--- 2024-06-23 10:39:46.291334 ---
+epoch 19
+early stop metric: 0.683292
+Phase: valid, metric: survival_loss: 0.683292
+Phase: test, metric: survival_loss: 0.713535
+--- 2024-06-23 10:39:46.507545 ---
+epoch 20
+early stop metric: 0.680545
+Phase: valid, metric: survival_loss: 0.680545
+Phase: test, metric: survival_loss: 0.711891
+--- 2024-06-23 10:39:46.776410 ---
+epoch 21
+early stop metric: 0.679936
+Phase: valid, metric: survival_loss: 0.679936
+Phase: test, metric: survival_loss: 0.711657
+--- 2024-06-23 10:39:46.994247 ---
+epoch 22
+early stop metric: 0.679877
+Phase: valid, metric: survival_loss: 0.679877
+Phase: test, metric: survival_loss: 0.711973
+--- 2024-06-23 10:39:47.210865 ---
+epoch 23
+early stop metric: 0.676469
+Phase: valid, metric: survival_loss: 0.676469
+Phase: test, metric: survival_loss: 0.709331
+--- 2024-06-23 10:39:47.482610 ---
+epoch 24
+early stop metric: 0.675325
+Phase: valid, metric: survival_loss: 0.675325
+Phase: test, metric: survival_loss: 0.708666
+--- 2024-06-23 10:39:47.698891 ---
+epoch 25
+early stop metric: 0.675550
+Phase: valid, metric: survival_loss: 0.675550
+Phase: test, metric: survival_loss: 0.709230
+--- 2024-06-23 10:39:47.907514 ---
+epoch 26
+early stop metric: 0.676278
+Phase: valid, metric: survival_loss: 0.676278
+Phase: test, metric: survival_loss: 0.709556
+--- 2024-06-23 10:39:48.179740 ---
+epoch 27
+early stop metric: 0.675096
+Phase: valid, metric: survival_loss: 0.675096
+Phase: test, metric: survival_loss: 0.708846
+--- 2024-06-23 10:39:48.413200 ---
+epoch 28
+early stop metric: 0.675323
+Phase: valid, metric: survival_loss: 0.675323
+Phase: test, metric: survival_loss: 0.708727
+--- 2024-06-23 10:39:48.622730 ---
+epoch 29
+early stop metric: 0.675969
+Phase: valid, metric: survival_loss: 0.675969
+Phase: test, metric: survival_loss: 0.710297
+--- 2024-06-23 10:39:48.897584 ---
+epoch 30
+early stop metric: 0.673868
+Phase: valid, metric: survival_loss: 0.673868
+Phase: test, metric: survival_loss: 0.708639
+--- 2024-06-23 10:39:49.129704 ---
+epoch 31
+early stop metric: 0.675740
+Phase: valid, metric: survival_loss: 0.675740
+Phase: test, metric: survival_loss: 0.711025
+--- 2024-06-23 10:39:49.339596 ---
+epoch 32
+early stop metric: 0.674780
+Phase: valid, metric: survival_loss: 0.674780
+Phase: test, metric: survival_loss: 0.710633
+--- 2024-06-23 10:39:49.549201 ---
+epoch 33
+early stop metric: 0.673955
+Phase: valid, metric: survival_loss: 0.673955
+Phase: test, metric: survival_loss: 0.711175
+--- 2024-06-23 10:39:49.807919 ---
+epoch 34
+early stop metric: 0.674619
+Phase: valid, metric: survival_loss: 0.674619
+Phase: test, metric: survival_loss: 0.711483
+--- 2024-06-23 10:39:50.018620 ---
+epoch 35
+early stop metric: 0.673512
+Phase: valid, metric: survival_loss: 0.673512
+Phase: test, metric: survival_loss: 0.711106
+--- 2024-06-23 10:39:50.237317 ---
+epoch 36
+early stop metric: 0.674515
+Phase: valid, metric: survival_loss: 0.674515
+Phase: test, metric: survival_loss: 0.711449
+--- 2024-06-23 10:39:50.446146 ---
+epoch 37
+early stop metric: 0.673464
+Phase: valid, metric: survival_loss: 0.673464
+Phase: test, metric: survival_loss: 0.712380
+--- 2024-06-23 10:39:50.711181 ---
+epoch 38
+early stop metric: 0.673786
+Phase: valid, metric: survival_loss: 0.673786
+Phase: test, metric: survival_loss: 0.712783
+--- 2024-06-23 10:39:50.919763 ---
+epoch 39
+early stop metric: 0.674084
+Phase: valid, metric: survival_loss: 0.674084
+Phase: test, metric: survival_loss: 0.712559
+--- 2024-06-23 10:39:51.131685 ---
+epoch 40
+early stop metric: 0.673954
+Phase: valid, metric: survival_loss: 0.673954
+Phase: test, metric: survival_loss: 0.712705
+--- 2024-06-23 10:39:51.396558 ---
+epoch 41
+early stop metric: 0.674496
+Phase: valid, metric: survival_loss: 0.674496
+Phase: test, metric: survival_loss: 0.714493
+--- 2024-06-23 10:39:51.607319 ---
+epoch 42
+early stop metric: 0.673880
+Phase: valid, metric: survival_loss: 0.673880
+Phase: test, metric: survival_loss: 0.713889
+--- 2024-06-23 10:39:51.816874 ---
+epoch 43
+early stop metric: 0.675286
+Phase: valid, metric: survival_loss: 0.675286
+Phase: test, metric: survival_loss: 0.714928
+--- 2024-06-23 10:39:52.025822 ---
+epoch 44
+early stop metric: 0.675413
+Phase: valid, metric: survival_loss: 0.675413
+Phase: test, metric: survival_loss: 0.714522
+--- 2024-06-23 10:39:52.286612 ---
+epoch 45
+early stop metric: 0.675001
+Phase: valid, metric: survival_loss: 0.675001
+Phase: test, metric: survival_loss: 0.713876
+--- 2024-06-23 10:39:52.493647 ---
+epoch 46
+early stop metric: 0.674473
+Phase: valid, metric: survival_loss: 0.674473
+Phase: test, metric: survival_loss: 0.715016
+--- 2024-06-23 10:39:52.702450 ---
+epoch 47
+early stop metric: 0.675726
+Phase: valid, metric: survival_loss: 0.675726
+Phase: test, metric: survival_loss: 0.715674
+--- 2024-06-23 10:40:40.637595 ---
+epoch 0
+early stop metric: 1.156635
+Phase: valid, metric: survival_loss: 1.156635
+Phase: test, metric: survival_loss: 1.129461
+--- 2024-06-23 10:40:40.746626 ---
+epoch 1
+early stop metric: 0.978081
+Phase: valid, metric: survival_loss: 0.978081
+Phase: test, metric: survival_loss: 0.969000
+--- 2024-06-23 10:40:40.851786 ---
+epoch 2
+early stop metric: 0.874287
+Phase: valid, metric: survival_loss: 0.874287
+Phase: test, metric: survival_loss: 0.878545
+--- 2024-06-23 10:40:41.012136 ---
+epoch 3
+early stop metric: 0.815622
+Phase: valid, metric: survival_loss: 0.815622
+Phase: test, metric: survival_loss: 0.829018
+--- 2024-06-23 10:40:41.121419 ---
+epoch 4
+early stop metric: 0.778190
+Phase: valid, metric: survival_loss: 0.778190
+Phase: test, metric: survival_loss: 0.797454
+--- 2024-06-23 10:40:41.226473 ---
+epoch 5
+early stop metric: 0.754791
+Phase: valid, metric: survival_loss: 0.754791
+Phase: test, metric: survival_loss: 0.776681
+--- 2024-06-23 10:40:41.333622 ---
+epoch 6
+early stop metric: 0.737270
+Phase: valid, metric: survival_loss: 0.737270
+Phase: test, metric: survival_loss: 0.761924
+--- 2024-06-23 10:40:41.489548 ---
+epoch 7
+early stop metric: 0.727307
+Phase: valid, metric: survival_loss: 0.727307
+Phase: test, metric: survival_loss: 0.752175
+--- 2024-06-23 10:40:41.599656 ---
+epoch 8
+early stop metric: 0.718711
+Phase: valid, metric: survival_loss: 0.718711
+Phase: test, metric: survival_loss: 0.744937
+--- 2024-06-23 10:40:41.706715 ---
+epoch 9
+early stop metric: 0.711460
+Phase: valid, metric: survival_loss: 0.711460
+Phase: test, metric: survival_loss: 0.737787
+--- 2024-06-23 10:40:41.812185 ---
+epoch 10
+early stop metric: 0.705088
+Phase: valid, metric: survival_loss: 0.705088
+Phase: test, metric: survival_loss: 0.731429
+--- 2024-06-23 10:40:41.968006 ---
+epoch 11
+early stop metric: 0.701368
+Phase: valid, metric: survival_loss: 0.701368
+Phase: test, metric: survival_loss: 0.727418
+--- 2024-06-23 10:40:42.074283 ---
+epoch 12
+early stop metric: 0.697910
+Phase: valid, metric: survival_loss: 0.697910
+Phase: test, metric: survival_loss: 0.725010
+--- 2024-06-23 10:40:42.180254 ---
+epoch 13
+early stop metric: 0.695106
+Phase: valid, metric: survival_loss: 0.695106
+Phase: test, metric: survival_loss: 0.721906
+--- 2024-06-23 10:40:42.338513 ---
+epoch 14
+early stop metric: 0.691587
+Phase: valid, metric: survival_loss: 0.691587
+Phase: test, metric: survival_loss: 0.719068
+--- 2024-06-23 10:40:42.446032 ---
+epoch 15
+early stop metric: 0.688600
+Phase: valid, metric: survival_loss: 0.688600
+Phase: test, metric: survival_loss: 0.717281
+--- 2024-06-23 10:40:42.554095 ---
+epoch 16
+early stop metric: 0.688427
+Phase: valid, metric: survival_loss: 0.688427
+Phase: test, metric: survival_loss: 0.717237
+--- 2024-06-23 10:40:42.660143 ---
+epoch 17
+early stop metric: 0.685373
+Phase: valid, metric: survival_loss: 0.685373
+Phase: test, metric: survival_loss: 0.714608
+--- 2024-06-23 10:40:42.818349 ---
+epoch 18
+early stop metric: 0.684635
+Phase: valid, metric: survival_loss: 0.684635
+Phase: test, metric: survival_loss: 0.714741
+--- 2024-06-23 10:40:42.924169 ---
+epoch 19
+early stop metric: 0.683315
+Phase: valid, metric: survival_loss: 0.683315
+Phase: test, metric: survival_loss: 0.713578
+--- 2024-06-23 10:40:43.030752 ---
+epoch 20
+early stop metric: 0.680557
+Phase: valid, metric: survival_loss: 0.680557
+Phase: test, metric: survival_loss: 0.711931
+--- 2024-06-23 10:40:43.191555 ---
+epoch 21
+early stop metric: 0.679937
+Phase: valid, metric: survival_loss: 0.679937
+Phase: test, metric: survival_loss: 0.711659
+--- 2024-06-23 10:40:43.298674 ---
+epoch 22
+early stop metric: 0.679849
+Phase: valid, metric: survival_loss: 0.679849
+Phase: test, metric: survival_loss: 0.711958
+--- 2024-06-23 10:40:43.404251 ---
+epoch 23
+early stop metric: 0.676417
+Phase: valid, metric: survival_loss: 0.676417
+Phase: test, metric: survival_loss: 0.709340
+--- 2024-06-23 10:40:43.509297 ---
+epoch 24
+early stop metric: 0.675305
+Phase: valid, metric: survival_loss: 0.675305
+Phase: test, metric: survival_loss: 0.708676
+--- 2024-06-23 10:40:43.663984 ---
+epoch 25
+early stop metric: 0.675536
+Phase: valid, metric: survival_loss: 0.675536
+Phase: test, metric: survival_loss: 0.709247
+--- 2024-06-23 10:40:43.770458 ---
+epoch 26
+early stop metric: 0.676265
+Phase: valid, metric: survival_loss: 0.676265
+Phase: test, metric: survival_loss: 0.709598
+--- 2024-06-23 10:40:43.876055 ---
+epoch 27
+early stop metric: 0.675069
+Phase: valid, metric: survival_loss: 0.675069
+Phase: test, metric: survival_loss: 0.708915
+--- 2024-06-23 10:40:44.051189 ---
+epoch 28
+early stop metric: 0.675301
+Phase: valid, metric: survival_loss: 0.675301
+Phase: test, metric: survival_loss: 0.708806
+--- 2024-06-23 10:40:44.162452 ---
+epoch 29
+early stop metric: 0.675965
+Phase: valid, metric: survival_loss: 0.675965
+Phase: test, metric: survival_loss: 0.710386
+--- 2024-06-23 10:40:44.268520 ---
+epoch 30
+early stop metric: 0.673883
+Phase: valid, metric: survival_loss: 0.673883
+Phase: test, metric: survival_loss: 0.708698
+--- 2024-06-23 10:40:44.425342 ---
+epoch 31
+early stop metric: 0.675781
+Phase: valid, metric: survival_loss: 0.675781
+Phase: test, metric: survival_loss: 0.711145
+--- 2024-06-23 10:40:44.536834 ---
+epoch 32
+early stop metric: 0.674835
+Phase: valid, metric: survival_loss: 0.674835
+Phase: test, metric: survival_loss: 0.710711
+--- 2024-06-23 10:40:44.659537 ---
+epoch 33
+early stop metric: 0.673983
+Phase: valid, metric: survival_loss: 0.673983
+Phase: test, metric: survival_loss: 0.711261
+--- 2024-06-23 10:40:44.766988 ---
+epoch 34
+early stop metric: 0.674627
+Phase: valid, metric: survival_loss: 0.674627
+Phase: test, metric: survival_loss: 0.711523
+--- 2024-06-23 10:40:44.919999 ---
+epoch 35
+early stop metric: 0.673552
+Phase: valid, metric: survival_loss: 0.673552
+Phase: test, metric: survival_loss: 0.711256
+--- 2024-06-23 10:40:45.026951 ---
+epoch 36
+early stop metric: 0.674542
+Phase: valid, metric: survival_loss: 0.674542
+Phase: test, metric: survival_loss: 0.711494
+--- 2024-06-23 10:40:45.131358 ---
+epoch 37
+early stop metric: 0.673487
+Phase: valid, metric: survival_loss: 0.673487
+Phase: test, metric: survival_loss: 0.712426
+--- 2024-06-23 10:40:45.287430 ---
+epoch 38
+early stop metric: 0.673858
+Phase: valid, metric: survival_loss: 0.673858
+Phase: test, metric: survival_loss: 0.712907
+--- 2024-06-23 10:40:45.399432 ---
+epoch 39
+early stop metric: 0.674140
+Phase: valid, metric: survival_loss: 0.674140
+Phase: test, metric: survival_loss: 0.712676
+--- 2024-06-23 10:40:45.504773 ---
+epoch 40
+early stop metric: 0.674024
+Phase: valid, metric: survival_loss: 0.674024
+Phase: test, metric: survival_loss: 0.712776
+--- 2024-06-23 10:40:45.612069 ---
+epoch 41
+early stop metric: 0.674576
+Phase: valid, metric: survival_loss: 0.674576
+Phase: test, metric: survival_loss: 0.714578
+--- 2024-06-23 10:40:45.766613 ---
+epoch 42
+early stop metric: 0.673996
+Phase: valid, metric: survival_loss: 0.673996
+Phase: test, metric: survival_loss: 0.713893
+--- 2024-06-23 10:40:45.874030 ---
+epoch 43
+early stop metric: 0.675358
+Phase: valid, metric: survival_loss: 0.675358
+Phase: test, metric: survival_loss: 0.714985
+--- 2024-06-23 10:40:45.980040 ---
+epoch 44
+early stop metric: 0.675450
+Phase: valid, metric: survival_loss: 0.675450
+Phase: test, metric: survival_loss: 0.714598
+--- 2024-06-23 10:40:46.130830 ---
+epoch 45
+early stop metric: 0.675019
+Phase: valid, metric: survival_loss: 0.675019
+Phase: test, metric: survival_loss: 0.713903
+--- 2024-06-23 10:40:46.235073 ---
+epoch 46
+early stop metric: 0.674507
+Phase: valid, metric: survival_loss: 0.674507
+Phase: test, metric: survival_loss: 0.715102
+--- 2024-06-23 10:40:46.340277 ---
+epoch 47
+early stop metric: 0.675699
+Phase: valid, metric: survival_loss: 0.675699
+Phase: test, metric: survival_loss: 0.715587
+--- 2024-07-15 18:25:13.914804 ---
+epoch 0
+early stop metric: 1.156635
+Phase: valid, metric: survival_loss: 1.156635
+Phase: test, metric: survival_loss: 1.129461
+--- 2024-07-15 18:25:14.056045 ---
+epoch 1
+early stop metric: 0.978081
+Phase: valid, metric: survival_loss: 0.978081
+Phase: test, metric: survival_loss: 0.969000
+--- 2024-07-15 18:25:14.233584 ---
+epoch 2
+early stop metric: 0.874287
+Phase: valid, metric: survival_loss: 0.874287
+Phase: test, metric: survival_loss: 0.878545
+--- 2024-07-15 18:25:14.336296 ---
+epoch 3
+early stop metric: 0.815622
+Phase: valid, metric: survival_loss: 0.815622
+Phase: test, metric: survival_loss: 0.829018
+--- 2024-07-15 18:25:14.441028 ---
+epoch 4
+early stop metric: 0.778190
+Phase: valid, metric: survival_loss: 0.778190
+Phase: test, metric: survival_loss: 0.797454
+--- 2024-07-15 18:25:14.589319 ---
+epoch 5
+early stop metric: 0.754791
+Phase: valid, metric: survival_loss: 0.754791
+Phase: test, metric: survival_loss: 0.776681
+--- 2024-07-15 18:25:14.692506 ---
+epoch 6
+early stop metric: 0.737270
+Phase: valid, metric: survival_loss: 0.737270
+Phase: test, metric: survival_loss: 0.761924
+--- 2024-07-15 18:25:14.799055 ---
+epoch 7
+early stop metric: 0.727307
+Phase: valid, metric: survival_loss: 0.727307
+Phase: test, metric: survival_loss: 0.752175
+--- 2024-07-15 18:25:14.945061 ---
+epoch 8
+early stop metric: 0.718711
+Phase: valid, metric: survival_loss: 0.718711
+Phase: test, metric: survival_loss: 0.744937
+--- 2024-07-15 18:25:15.045757 ---
+epoch 9
+early stop metric: 0.711460
+Phase: valid, metric: survival_loss: 0.711460
+Phase: test, metric: survival_loss: 0.737787
+--- 2024-07-15 18:25:15.150813 ---
+epoch 10
+early stop metric: 0.705088
+Phase: valid, metric: survival_loss: 0.705088
+Phase: test, metric: survival_loss: 0.731429
+--- 2024-07-15 18:25:15.253582 ---
+epoch 11
+early stop metric: 0.701368
+Phase: valid, metric: survival_loss: 0.701368
+Phase: test, metric: survival_loss: 0.727418
+--- 2024-07-15 18:25:15.410610 ---
+epoch 12
+early stop metric: 0.697910
+Phase: valid, metric: survival_loss: 0.697910
+Phase: test, metric: survival_loss: 0.725010
+--- 2024-07-15 18:25:15.510312 ---
+epoch 13
+early stop metric: 0.695106
+Phase: valid, metric: survival_loss: 0.695106
+Phase: test, metric: survival_loss: 0.721906
+--- 2024-07-15 18:25:15.607363 ---
+epoch 14
+early stop metric: 0.691587
+Phase: valid, metric: survival_loss: 0.691587
+Phase: test, metric: survival_loss: 0.719068
+--- 2024-07-15 18:25:15.758343 ---
+epoch 15
+early stop metric: 0.688600
+Phase: valid, metric: survival_loss: 0.688600
+Phase: test, metric: survival_loss: 0.717281
+--- 2024-07-15 18:25:15.857094 ---
+epoch 16
+early stop metric: 0.688427
+Phase: valid, metric: survival_loss: 0.688427
+Phase: test, metric: survival_loss: 0.717237
+--- 2024-07-15 18:25:15.952711 ---
+epoch 17
+early stop metric: 0.685373
+Phase: valid, metric: survival_loss: 0.685373
+Phase: test, metric: survival_loss: 0.714608
+--- 2024-07-15 18:25:16.099547 ---
+epoch 18
+early stop metric: 0.684635
+Phase: valid, metric: survival_loss: 0.684635
+Phase: test, metric: survival_loss: 0.714741
+--- 2024-07-15 18:25:16.195284 ---
+epoch 19
+early stop metric: 0.683315
+Phase: valid, metric: survival_loss: 0.683315
+Phase: test, metric: survival_loss: 0.713578
+--- 2024-07-15 18:25:16.291194 ---
+epoch 20
+early stop metric: 0.680557
+Phase: valid, metric: survival_loss: 0.680557
+Phase: test, metric: survival_loss: 0.711931
+--- 2024-07-15 18:25:16.394632 ---
+epoch 21
+early stop metric: 0.679937
+Phase: valid, metric: survival_loss: 0.679937
+Phase: test, metric: survival_loss: 0.711659
+--- 2024-07-15 18:25:16.543649 ---
+epoch 22
+early stop metric: 0.679849
+Phase: valid, metric: survival_loss: 0.679849
+Phase: test, metric: survival_loss: 0.711958
+--- 2024-07-15 18:25:16.645365 ---
+epoch 23
+early stop metric: 0.676417
+Phase: valid, metric: survival_loss: 0.676417
+Phase: test, metric: survival_loss: 0.709340
+--- 2024-07-15 18:25:16.747915 ---
+epoch 24
+early stop metric: 0.675305
+Phase: valid, metric: survival_loss: 0.675305
+Phase: test, metric: survival_loss: 0.708676
+--- 2024-07-15 18:25:16.854488 ---
+epoch 25
+early stop metric: 0.675536
+Phase: valid, metric: survival_loss: 0.675536
+Phase: test, metric: survival_loss: 0.709247
+--- 2024-07-15 18:25:17.005500 ---
+epoch 26
+early stop metric: 0.676265
+Phase: valid, metric: survival_loss: 0.676265
+Phase: test, metric: survival_loss: 0.709598
+--- 2024-07-15 18:25:17.105889 ---
+epoch 27
+early stop metric: 0.675069
+Phase: valid, metric: survival_loss: 0.675069
+Phase: test, metric: survival_loss: 0.708915
+--- 2024-07-15 18:25:17.206432 ---
+epoch 28
+early stop metric: 0.675301
+Phase: valid, metric: survival_loss: 0.675301
+Phase: test, metric: survival_loss: 0.708806
+--- 2024-07-15 18:25:17.355943 ---
+epoch 29
+early stop metric: 0.675965
+Phase: valid, metric: survival_loss: 0.675965
+Phase: test, metric: survival_loss: 0.710386
+--- 2024-07-15 18:25:17.458936 ---
+epoch 30
+early stop metric: 0.673883
+Phase: valid, metric: survival_loss: 0.673883
+Phase: test, metric: survival_loss: 0.708698
+--- 2024-07-15 18:25:17.564150 ---
+epoch 31
+early stop metric: 0.675781
+Phase: valid, metric: survival_loss: 0.675781
+Phase: test, metric: survival_loss: 0.711145
+--- 2024-07-15 18:25:17.668682 ---
+epoch 32
+early stop metric: 0.674835
+Phase: valid, metric: survival_loss: 0.674835
+Phase: test, metric: survival_loss: 0.710711
+--- 2024-07-15 18:25:17.821393 ---
+epoch 33
+early stop metric: 0.673983
+Phase: valid, metric: survival_loss: 0.673983
+Phase: test, metric: survival_loss: 0.711261
+--- 2024-07-15 18:25:17.926499 ---
+epoch 34
+early stop metric: 0.674627
+Phase: valid, metric: survival_loss: 0.674627
+Phase: test, metric: survival_loss: 0.711523
+--- 2024-07-15 18:25:18.029441 ---
+epoch 35
+early stop metric: 0.673552
+Phase: valid, metric: survival_loss: 0.673552
+Phase: test, metric: survival_loss: 0.711256
+--- 2024-07-15 18:25:18.180055 ---
+epoch 36
+early stop metric: 0.674542
+Phase: valid, metric: survival_loss: 0.674542
+Phase: test, metric: survival_loss: 0.711494
+--- 2024-07-15 18:25:18.282919 ---
+epoch 37
+early stop metric: 0.673487
+Phase: valid, metric: survival_loss: 0.673487
+Phase: test, metric: survival_loss: 0.712426
+--- 2024-07-15 18:25:18.388228 ---
+epoch 38
+early stop metric: 0.673858
+Phase: valid, metric: survival_loss: 0.673858
+Phase: test, metric: survival_loss: 0.712907
+--- 2024-07-15 18:25:18.490579 ---
+epoch 39
+early stop metric: 0.674140
+Phase: valid, metric: survival_loss: 0.674140
+Phase: test, metric: survival_loss: 0.712676
+--- 2024-07-15 18:25:18.644980 ---
+epoch 40
+early stop metric: 0.674024
+Phase: valid, metric: survival_loss: 0.674024
+Phase: test, metric: survival_loss: 0.712776
+--- 2024-07-15 18:25:18.747366 ---
+epoch 41
+early stop metric: 0.674576
+Phase: valid, metric: survival_loss: 0.674576
+Phase: test, metric: survival_loss: 0.714578
+--- 2024-07-15 18:25:18.848811 ---
+epoch 42
+early stop metric: 0.673996
+Phase: valid, metric: survival_loss: 0.673996
+Phase: test, metric: survival_loss: 0.713893
+--- 2024-07-15 18:25:18.999268 ---
+epoch 43
+early stop metric: 0.675358
+Phase: valid, metric: survival_loss: 0.675358
+Phase: test, metric: survival_loss: 0.714985
+--- 2024-07-15 18:25:19.103665 ---
+epoch 44
+early stop metric: 0.675450
+Phase: valid, metric: survival_loss: 0.675450
+Phase: test, metric: survival_loss: 0.714598
+--- 2024-07-15 18:25:19.206084 ---
+epoch 45
+early stop metric: 0.675019
+Phase: valid, metric: survival_loss: 0.675019
+Phase: test, metric: survival_loss: 0.713903
+--- 2024-07-15 18:25:19.309458 ---
+epoch 46
+early stop metric: 0.674507
+Phase: valid, metric: survival_loss: 0.674507
+Phase: test, metric: survival_loss: 0.715102
+--- 2024-07-15 18:25:19.460276 ---
+epoch 47
+early stop metric: 0.675699
+Phase: valid, metric: survival_loss: 0.675699
+Phase: test, metric: survival_loss: 0.715587
+--- 2024-07-15 19:09:46.314770 ---
+epoch 0
+early stop metric: 1.156635
+Phase: valid, metric: survival_loss: 1.156635
+Phase: test, metric: survival_loss: 1.129461
+--- 2024-07-15 19:09:46.489051 ---
+epoch 1
+early stop metric: 0.978081
+Phase: valid, metric: survival_loss: 0.978081
+Phase: test, metric: survival_loss: 0.969000
+--- 2024-07-15 19:09:46.625380 ---
+epoch 2
+early stop metric: 0.874287
+Phase: valid, metric: survival_loss: 0.874287
+Phase: test, metric: survival_loss: 0.878545
+--- 2024-07-15 19:09:46.736279 ---
+epoch 3
+early stop metric: 0.815622
+Phase: valid, metric: survival_loss: 0.815622
+Phase: test, metric: survival_loss: 0.829018
+--- 2024-07-15 19:09:46.895028 ---
+epoch 4
+early stop metric: 0.778190
+Phase: valid, metric: survival_loss: 0.778190
+Phase: test, metric: survival_loss: 0.797454
+--- 2024-07-15 19:09:46.997959 ---
+epoch 5
+early stop metric: 0.754791
+Phase: valid, metric: survival_loss: 0.754791
+Phase: test, metric: survival_loss: 0.776681
+--- 2024-07-15 19:09:47.098279 ---
+epoch 6
+early stop metric: 0.737270
+Phase: valid, metric: survival_loss: 0.737270
+Phase: test, metric: survival_loss: 0.761924
+--- 2024-07-15 19:09:47.199164 ---
+epoch 7
+early stop metric: 0.727307
+Phase: valid, metric: survival_loss: 0.727307
+Phase: test, metric: survival_loss: 0.752175
+--- 2024-07-15 19:09:47.353326 ---
+epoch 8
+early stop metric: 0.718711
+Phase: valid, metric: survival_loss: 0.718711
+Phase: test, metric: survival_loss: 0.744937
+--- 2024-07-15 19:09:47.462400 ---
+epoch 9
+early stop metric: 0.711460
+Phase: valid, metric: survival_loss: 0.711460
+Phase: test, metric: survival_loss: 0.737787
+--- 2024-07-15 19:09:47.574255 ---
+epoch 10
+early stop metric: 0.705088
+Phase: valid, metric: survival_loss: 0.705088
+Phase: test, metric: survival_loss: 0.731429
+--- 2024-07-15 19:09:47.680354 ---
+epoch 11
+early stop metric: 0.701368
+Phase: valid, metric: survival_loss: 0.701368
+Phase: test, metric: survival_loss: 0.727418
+--- 2024-07-15 19:09:47.832810 ---
+epoch 12
+early stop metric: 0.697910
+Phase: valid, metric: survival_loss: 0.697910
+Phase: test, metric: survival_loss: 0.725010
+--- 2024-07-15 19:09:47.932081 ---
+epoch 13
+early stop metric: 0.695106
+Phase: valid, metric: survival_loss: 0.695106
+Phase: test, metric: survival_loss: 0.721906
+--- 2024-07-15 19:09:48.032440 ---
+epoch 14
+early stop metric: 0.691587
+Phase: valid, metric: survival_loss: 0.691587
+Phase: test, metric: survival_loss: 0.719068
+--- 2024-07-15 19:09:48.178114 ---
+epoch 15
+early stop metric: 0.688600
+Phase: valid, metric: survival_loss: 0.688600
+Phase: test, metric: survival_loss: 0.717281
+--- 2024-07-15 19:09:48.273837 ---
+epoch 16
+early stop metric: 0.688427
+Phase: valid, metric: survival_loss: 0.688427
+Phase: test, metric: survival_loss: 0.717237
+--- 2024-07-15 19:09:48.371719 ---
+epoch 17
+early stop metric: 0.685373
+Phase: valid, metric: survival_loss: 0.685373
+Phase: test, metric: survival_loss: 0.714608
+--- 2024-07-15 19:09:48.471480 ---
+epoch 18
+early stop metric: 0.684635
+Phase: valid, metric: survival_loss: 0.684635
+Phase: test, metric: survival_loss: 0.714741
+--- 2024-07-15 19:09:48.622677 ---
+epoch 19
+early stop metric: 0.683315
+Phase: valid, metric: survival_loss: 0.683315
+Phase: test, metric: survival_loss: 0.713578
+--- 2024-07-15 19:09:48.721057 ---
+epoch 20
+early stop metric: 0.680557
+Phase: valid, metric: survival_loss: 0.680557
+Phase: test, metric: survival_loss: 0.711931
+--- 2024-07-15 19:09:48.823094 ---
+epoch 21
+early stop metric: 0.679937
+Phase: valid, metric: survival_loss: 0.679937
+Phase: test, metric: survival_loss: 0.711659
+--- 2024-07-15 19:09:48.975424 ---
+epoch 22
+early stop metric: 0.679849
+Phase: valid, metric: survival_loss: 0.679849
+Phase: test, metric: survival_loss: 0.711958
+--- 2024-07-15 19:09:49.079906 ---
+epoch 23
+early stop metric: 0.676417
+Phase: valid, metric: survival_loss: 0.676417
+Phase: test, metric: survival_loss: 0.709340
+--- 2024-07-15 19:09:49.182110 ---
+epoch 24
+early stop metric: 0.675305
+Phase: valid, metric: survival_loss: 0.675305
+Phase: test, metric: survival_loss: 0.708676
+--- 2024-07-15 19:09:49.285138 ---
+epoch 25
+early stop metric: 0.675536
+Phase: valid, metric: survival_loss: 0.675536
+Phase: test, metric: survival_loss: 0.709247
+--- 2024-07-15 19:09:49.437312 ---
+epoch 26
+early stop metric: 0.676265
+Phase: valid, metric: survival_loss: 0.676265
+Phase: test, metric: survival_loss: 0.709598
+--- 2024-07-15 19:09:49.536259 ---
+epoch 27
+early stop metric: 0.675069
+Phase: valid, metric: survival_loss: 0.675069
+Phase: test, metric: survival_loss: 0.708915
+--- 2024-07-15 19:09:49.638261 ---
+epoch 28
+early stop metric: 0.675301
+Phase: valid, metric: survival_loss: 0.675301
+Phase: test, metric: survival_loss: 0.708806
+--- 2024-07-15 19:09:49.785858 ---
+epoch 29
+early stop metric: 0.675965
+Phase: valid, metric: survival_loss: 0.675965
+Phase: test, metric: survival_loss: 0.710386
+--- 2024-07-15 19:09:49.883197 ---
+epoch 30
+early stop metric: 0.673883
+Phase: valid, metric: survival_loss: 0.673883
+Phase: test, metric: survival_loss: 0.708698
+--- 2024-07-15 19:09:49.981123 ---
+epoch 31
+early stop metric: 0.675781
+Phase: valid, metric: survival_loss: 0.675781
+Phase: test, metric: survival_loss: 0.711145
+--- 2024-07-15 19:09:50.080733 ---
+epoch 32
+early stop metric: 0.674835
+Phase: valid, metric: survival_loss: 0.674835
+Phase: test, metric: survival_loss: 0.710711
+--- 2024-07-15 19:09:50.229219 ---
+epoch 33
+early stop metric: 0.673983
+Phase: valid, metric: survival_loss: 0.673983
+Phase: test, metric: survival_loss: 0.711261
+--- 2024-07-15 19:09:50.329267 ---
+epoch 34
+early stop metric: 0.674627
+Phase: valid, metric: survival_loss: 0.674627
+Phase: test, metric: survival_loss: 0.711523
+--- 2024-07-15 19:09:50.429041 ---
+epoch 35
+early stop metric: 0.673552
+Phase: valid, metric: survival_loss: 0.673552
+Phase: test, metric: survival_loss: 0.711256
+--- 2024-07-15 19:09:50.574317 ---
+epoch 36
+early stop metric: 0.674542
+Phase: valid, metric: survival_loss: 0.674542
+Phase: test, metric: survival_loss: 0.711494
+--- 2024-07-15 19:09:50.673473 ---
+epoch 37
+early stop metric: 0.673487
+Phase: valid, metric: survival_loss: 0.673487
+Phase: test, metric: survival_loss: 0.712426
+--- 2024-07-15 19:09:50.772594 ---
+epoch 38
+early stop metric: 0.673858
+Phase: valid, metric: survival_loss: 0.673858
+Phase: test, metric: survival_loss: 0.712907
+--- 2024-07-15 19:09:50.926307 ---
+epoch 39
+early stop metric: 0.674140
+Phase: valid, metric: survival_loss: 0.674140
+Phase: test, metric: survival_loss: 0.712676
+--- 2024-07-15 19:09:51.026806 ---
+epoch 40
+early stop metric: 0.674024
+Phase: valid, metric: survival_loss: 0.674024
+Phase: test, metric: survival_loss: 0.712776
+--- 2024-07-15 19:09:51.126136 ---
+epoch 41
+early stop metric: 0.674576
+Phase: valid, metric: survival_loss: 0.674576
+Phase: test, metric: survival_loss: 0.714578
+--- 2024-07-15 19:09:51.226946 ---
+epoch 42
+early stop metric: 0.673996
+Phase: valid, metric: survival_loss: 0.673996
+Phase: test, metric: survival_loss: 0.713893
+--- 2024-07-15 19:09:51.374041 ---
+epoch 43
+early stop metric: 0.675358
+Phase: valid, metric: survival_loss: 0.675358
+Phase: test, metric: survival_loss: 0.714985
+--- 2024-07-15 19:09:51.477169 ---
+epoch 44
+early stop metric: 0.675450
+Phase: valid, metric: survival_loss: 0.675450
+Phase: test, metric: survival_loss: 0.714598
+--- 2024-07-15 19:09:51.579012 ---
+epoch 45
+early stop metric: 0.675019
+Phase: valid, metric: survival_loss: 0.675019
+Phase: test, metric: survival_loss: 0.713903
+--- 2024-07-15 19:09:51.735298 ---
+epoch 46
+early stop metric: 0.674507
+Phase: valid, metric: survival_loss: 0.674507
+Phase: test, metric: survival_loss: 0.715102
+--- 2024-07-15 19:09:51.835610 ---
+epoch 47
+early stop metric: 0.675699
+Phase: valid, metric: survival_loss: 0.675699
+Phase: test, metric: survival_loss: 0.715587
+--- 2024-07-15 19:09:59.497772 ---
+epoch 0
+early stop metric: 1.156635
+Phase: valid, metric: survival_loss: 1.156635
+Phase: test, metric: survival_loss: 1.129461
+--- 2024-07-15 19:09:59.652355 ---
+epoch 1
+early stop metric: 0.978081
+Phase: valid, metric: survival_loss: 0.978081
+Phase: test, metric: survival_loss: 0.969000
+--- 2024-07-15 19:09:59.757049 ---
+epoch 2
+early stop metric: 0.874287
+Phase: valid, metric: survival_loss: 0.874287
+Phase: test, metric: survival_loss: 0.878545
+--- 2024-07-15 19:09:59.858456 ---
+epoch 3
+early stop metric: 0.815622
+Phase: valid, metric: survival_loss: 0.815622
+Phase: test, metric: survival_loss: 0.829018
+--- 2024-07-15 19:09:59.965574 ---
+epoch 4
+early stop metric: 0.778190
+Phase: valid, metric: survival_loss: 0.778190
+Phase: test, metric: survival_loss: 0.797454
+--- 2024-07-15 19:10:00.133701 ---
+epoch 5
+early stop metric: 0.754791
+Phase: valid, metric: survival_loss: 0.754791
+Phase: test, metric: survival_loss: 0.776681
+--- 2024-07-15 19:10:00.239623 ---
+epoch 6
+early stop metric: 0.737270
+Phase: valid, metric: survival_loss: 0.737270
+Phase: test, metric: survival_loss: 0.761924
+--- 2024-07-15 19:10:00.341694 ---
+epoch 7
+early stop metric: 0.727307
+Phase: valid, metric: survival_loss: 0.727307
+Phase: test, metric: survival_loss: 0.752175
+--- 2024-07-15 19:10:00.498645 ---
+epoch 8
+early stop metric: 0.718711
+Phase: valid, metric: survival_loss: 0.718711
+Phase: test, metric: survival_loss: 0.744937
+--- 2024-07-15 19:10:00.601700 ---
+epoch 9
+early stop metric: 0.711460
+Phase: valid, metric: survival_loss: 0.711460
+Phase: test, metric: survival_loss: 0.737787
+--- 2024-07-15 19:10:00.704208 ---
+epoch 10
+early stop metric: 0.705088
+Phase: valid, metric: survival_loss: 0.705088
+Phase: test, metric: survival_loss: 0.731429
+--- 2024-07-15 19:10:00.853849 ---
+epoch 11
+early stop metric: 0.701368
+Phase: valid, metric: survival_loss: 0.701368
+Phase: test, metric: survival_loss: 0.727418
+--- 2024-07-15 19:10:00.960813 ---
+epoch 12
+early stop metric: 0.697910
+Phase: valid, metric: survival_loss: 0.697910
+Phase: test, metric: survival_loss: 0.725010
+--- 2024-07-15 19:10:01.063322 ---
+epoch 13
+early stop metric: 0.695106
+Phase: valid, metric: survival_loss: 0.695106
+Phase: test, metric: survival_loss: 0.721906
+--- 2024-07-15 19:10:01.166393 ---
+epoch 14
+early stop metric: 0.691587
+Phase: valid, metric: survival_loss: 0.691587
+Phase: test, metric: survival_loss: 0.719068
+--- 2024-07-15 19:10:01.323081 ---
+epoch 15
+early stop metric: 0.688600
+Phase: valid, metric: survival_loss: 0.688600
+Phase: test, metric: survival_loss: 0.717281
+--- 2024-07-15 19:10:01.426515 ---
+epoch 16
+early stop metric: 0.688427
+Phase: valid, metric: survival_loss: 0.688427
+Phase: test, metric: survival_loss: 0.717237
+--- 2024-07-15 19:10:01.529602 ---
+epoch 17
+early stop metric: 0.685373
+Phase: valid, metric: survival_loss: 0.685373
+Phase: test, metric: survival_loss: 0.714608
+--- 2024-07-15 19:10:01.631718 ---
+epoch 18
+early stop metric: 0.684635
+Phase: valid, metric: survival_loss: 0.684635
+Phase: test, metric: survival_loss: 0.714741
+--- 2024-07-15 19:10:01.788675 ---
+epoch 19
+early stop metric: 0.683315
+Phase: valid, metric: survival_loss: 0.683315
+Phase: test, metric: survival_loss: 0.713578
+--- 2024-07-15 19:10:01.891828 ---
+epoch 20
+early stop metric: 0.680557
+Phase: valid, metric: survival_loss: 0.680557
+Phase: test, metric: survival_loss: 0.711931
+--- 2024-07-15 19:10:01.997508 ---
+epoch 21
+early stop metric: 0.679937
+Phase: valid, metric: survival_loss: 0.679937
+Phase: test, metric: survival_loss: 0.711659
+--- 2024-07-15 19:10:02.145994 ---
+epoch 22
+early stop metric: 0.679849
+Phase: valid, metric: survival_loss: 0.679849
+Phase: test, metric: survival_loss: 0.711958
+--- 2024-07-15 19:10:02.247879 ---
+epoch 23
+early stop metric: 0.676417
+Phase: valid, metric: survival_loss: 0.676417
+Phase: test, metric: survival_loss: 0.709340
+--- 2024-07-15 19:10:02.348365 ---
+epoch 24
+early stop metric: 0.675305
+Phase: valid, metric: survival_loss: 0.675305
+Phase: test, metric: survival_loss: 0.708676
+--- 2024-07-15 19:10:02.451873 ---
+epoch 25
+early stop metric: 0.675536
+Phase: valid, metric: survival_loss: 0.675536
+Phase: test, metric: survival_loss: 0.709247
+--- 2024-07-15 19:10:02.613632 ---
+epoch 26
+early stop metric: 0.676265
+Phase: valid, metric: survival_loss: 0.676265
+Phase: test, metric: survival_loss: 0.709598
+--- 2024-07-15 19:10:02.714817 ---
+epoch 27
+early stop metric: 0.675069
+Phase: valid, metric: survival_loss: 0.675069
+Phase: test, metric: survival_loss: 0.708915
+--- 2024-07-15 19:10:02.815529 ---
+epoch 28
+early stop metric: 0.675301
+Phase: valid, metric: survival_loss: 0.675301
+Phase: test, metric: survival_loss: 0.708806
+--- 2024-07-15 19:10:02.964713 ---
+epoch 29
+early stop metric: 0.675965
+Phase: valid, metric: survival_loss: 0.675965
+Phase: test, metric: survival_loss: 0.710386
+--- 2024-07-15 19:10:03.070345 ---
+epoch 30
+early stop metric: 0.673883
+Phase: valid, metric: survival_loss: 0.673883
+Phase: test, metric: survival_loss: 0.708698
+--- 2024-07-15 19:10:03.179940 ---
+epoch 31
+early stop metric: 0.675781
+Phase: valid, metric: survival_loss: 0.675781
+Phase: test, metric: survival_loss: 0.711145
+--- 2024-07-15 19:10:03.283036 ---
+epoch 32
+early stop metric: 0.674835
+Phase: valid, metric: survival_loss: 0.674835
+Phase: test, metric: survival_loss: 0.710711
+--- 2024-07-15 19:10:03.445964 ---
+epoch 33
+early stop metric: 0.673983
+Phase: valid, metric: survival_loss: 0.673983
+Phase: test, metric: survival_loss: 0.711261
+--- 2024-07-15 19:10:03.554744 ---
+epoch 34
+early stop metric: 0.674627
+Phase: valid, metric: survival_loss: 0.674627
+Phase: test, metric: survival_loss: 0.711523
+--- 2024-07-15 19:10:03.654372 ---
+epoch 35
+early stop metric: 0.673552
+Phase: valid, metric: survival_loss: 0.673552
+Phase: test, metric: survival_loss: 0.711256
+--- 2024-07-15 19:10:03.807323 ---
+epoch 36
+early stop metric: 0.674542
+Phase: valid, metric: survival_loss: 0.674542
+Phase: test, metric: survival_loss: 0.711494
+--- 2024-07-15 19:10:03.908431 ---
+epoch 37
+early stop metric: 0.673487
+Phase: valid, metric: survival_loss: 0.673487
+Phase: test, metric: survival_loss: 0.712426
+--- 2024-07-15 19:10:04.009304 ---
+epoch 38
+early stop metric: 0.673858
+Phase: valid, metric: survival_loss: 0.673858
+Phase: test, metric: survival_loss: 0.712907
+--- 2024-07-15 19:10:04.109191 ---
+epoch 39
+early stop metric: 0.674140
+Phase: valid, metric: survival_loss: 0.674140
+Phase: test, metric: survival_loss: 0.712676
+--- 2024-07-15 19:10:04.260706 ---
+epoch 40
+early stop metric: 0.674024
+Phase: valid, metric: survival_loss: 0.674024
+Phase: test, metric: survival_loss: 0.712776
+--- 2024-07-15 19:10:04.368745 ---
+epoch 41
+early stop metric: 0.674576
+Phase: valid, metric: survival_loss: 0.674576
+Phase: test, metric: survival_loss: 0.714578
+--- 2024-07-15 19:10:04.473458 ---
+epoch 42
+early stop metric: 0.673996
+Phase: valid, metric: survival_loss: 0.673996
+Phase: test, metric: survival_loss: 0.713893
+--- 2024-07-15 19:10:04.625300 ---
+epoch 43
+early stop metric: 0.675358
+Phase: valid, metric: survival_loss: 0.675358
+Phase: test, metric: survival_loss: 0.714985
+--- 2024-07-15 19:10:04.724284 ---
+epoch 44
+early stop metric: 0.675450
+Phase: valid, metric: survival_loss: 0.675450
+Phase: test, metric: survival_loss: 0.714598
+--- 2024-07-15 19:10:04.827230 ---
+epoch 45
+early stop metric: 0.675019
+Phase: valid, metric: survival_loss: 0.675019
+Phase: test, metric: survival_loss: 0.713903
+--- 2024-07-15 19:10:04.978247 ---
+epoch 46
+early stop metric: 0.674507
+Phase: valid, metric: survival_loss: 0.674507
+Phase: test, metric: survival_loss: 0.715102
+--- 2024-07-15 19:10:05.080316 ---
+epoch 47
+early stop metric: 0.675699
+Phase: valid, metric: survival_loss: 0.675699
+Phase: test, metric: survival_loss: 0.715587
+--- 2024-07-15 19:12:36.558898 ---
+epoch 0
+early stop metric: 1.156635
+Phase: valid, metric: survival_loss: 1.156635
+Phase: test, metric: survival_loss: 1.129461
+--- 2024-07-15 19:12:36.719803 ---
+epoch 1
+early stop metric: 0.978081
+Phase: valid, metric: survival_loss: 0.978081
+Phase: test, metric: survival_loss: 0.969000
+--- 2024-07-15 19:12:36.820695 ---
+epoch 2
+early stop metric: 0.874287
+Phase: valid, metric: survival_loss: 0.874287
+Phase: test, metric: survival_loss: 0.878545
+--- 2024-07-15 19:12:36.927974 ---
+epoch 3
+early stop metric: 0.815622
+Phase: valid, metric: survival_loss: 0.815622
+Phase: test, metric: survival_loss: 0.829018
+--- 2024-07-15 19:12:37.033496 ---
+epoch 4
+early stop metric: 0.778190
+Phase: valid, metric: survival_loss: 0.778190
+Phase: test, metric: survival_loss: 0.797454
+--- 2024-07-15 19:12:37.198871 ---
+epoch 5
+early stop metric: 0.754791
+Phase: valid, metric: survival_loss: 0.754791
+Phase: test, metric: survival_loss: 0.776681
+--- 2024-07-15 19:12:37.298230 ---
+epoch 6
+early stop metric: 0.737270
+Phase: valid, metric: survival_loss: 0.737270
+Phase: test, metric: survival_loss: 0.761924
+--- 2024-07-15 19:12:37.402262 ---
+epoch 7
+early stop metric: 0.727307
+Phase: valid, metric: survival_loss: 0.727307
+Phase: test, metric: survival_loss: 0.752175
+--- 2024-07-15 19:12:37.551897 ---
+epoch 8
+early stop metric: 0.718711
+Phase: valid, metric: survival_loss: 0.718711
+Phase: test, metric: survival_loss: 0.744937
+--- 2024-07-15 19:12:37.657003 ---
+epoch 9
+early stop metric: 0.711460
+Phase: valid, metric: survival_loss: 0.711460
+Phase: test, metric: survival_loss: 0.737787
+--- 2024-07-15 19:12:37.759061 ---
+epoch 10
+early stop metric: 0.705088
+Phase: valid, metric: survival_loss: 0.705088
+Phase: test, metric: survival_loss: 0.731429
+--- 2024-07-15 19:12:37.859636 ---
+epoch 11
+early stop metric: 0.701368
+Phase: valid, metric: survival_loss: 0.701368
+Phase: test, metric: survival_loss: 0.727418
+--- 2024-07-15 19:12:38.015342 ---
+epoch 12
+early stop metric: 0.697910
+Phase: valid, metric: survival_loss: 0.697910
+Phase: test, metric: survival_loss: 0.725010
+--- 2024-07-15 19:12:38.120301 ---
+epoch 13
+early stop metric: 0.695106
+Phase: valid, metric: survival_loss: 0.695106
+Phase: test, metric: survival_loss: 0.721906
+--- 2024-07-15 19:12:38.230014 ---
+epoch 14
+early stop metric: 0.691587
+Phase: valid, metric: survival_loss: 0.691587
+Phase: test, metric: survival_loss: 0.719068
+--- 2024-07-15 19:12:38.380982 ---
+epoch 15
+early stop metric: 0.688600
+Phase: valid, metric: survival_loss: 0.688600
+Phase: test, metric: survival_loss: 0.717281
+--- 2024-07-15 19:12:38.484236 ---
+epoch 16
+early stop metric: 0.688427
+Phase: valid, metric: survival_loss: 0.688427
+Phase: test, metric: survival_loss: 0.717237
+--- 2024-07-15 19:12:38.588900 ---
+epoch 17
+early stop metric: 0.685373
+Phase: valid, metric: survival_loss: 0.685373
+Phase: test, metric: survival_loss: 0.714608
+--- 2024-07-15 19:12:38.693334 ---
+epoch 18
+early stop metric: 0.684635
+Phase: valid, metric: survival_loss: 0.684635
+Phase: test, metric: survival_loss: 0.714741
+--- 2024-07-15 19:12:38.854481 ---
+epoch 19
+early stop metric: 0.683315
+Phase: valid, metric: survival_loss: 0.683315
+Phase: test, metric: survival_loss: 0.713578
+--- 2024-07-15 19:12:38.956289 ---
+epoch 20
+early stop metric: 0.680557
+Phase: valid, metric: survival_loss: 0.680557
+Phase: test, metric: survival_loss: 0.711931
+--- 2024-07-15 19:12:39.055911 ---
+epoch 21
+early stop metric: 0.679937
+Phase: valid, metric: survival_loss: 0.679937
+Phase: test, metric: survival_loss: 0.711659
+--- 2024-07-15 19:12:39.208231 ---
+epoch 22
+early stop metric: 0.679849
+Phase: valid, metric: survival_loss: 0.679849
+Phase: test, metric: survival_loss: 0.711958
+--- 2024-07-15 19:12:39.306420 ---
+epoch 23
+early stop metric: 0.676417
+Phase: valid, metric: survival_loss: 0.676417
+Phase: test, metric: survival_loss: 0.709340
+--- 2024-07-15 19:12:39.411752 ---
+epoch 24
+early stop metric: 0.675305
+Phase: valid, metric: survival_loss: 0.675305
+Phase: test, metric: survival_loss: 0.708676
+--- 2024-07-15 19:12:39.507754 ---
+epoch 25
+early stop metric: 0.675536
+Phase: valid, metric: survival_loss: 0.675536
+Phase: test, metric: survival_loss: 0.709247
+--- 2024-07-15 19:12:39.655755 ---
+epoch 26
+early stop metric: 0.676265
+Phase: valid, metric: survival_loss: 0.676265
+Phase: test, metric: survival_loss: 0.709598
+--- 2024-07-15 19:12:39.753365 ---
+epoch 27
+early stop metric: 0.675069
+Phase: valid, metric: survival_loss: 0.675069
+Phase: test, metric: survival_loss: 0.708915
+--- 2024-07-15 19:12:39.856408 ---
+epoch 28
+early stop metric: 0.675301
+Phase: valid, metric: survival_loss: 0.675301
+Phase: test, metric: survival_loss: 0.708806
+--- 2024-07-15 19:12:40.007522 ---
+epoch 29
+early stop metric: 0.675965
+Phase: valid, metric: survival_loss: 0.675965
+Phase: test, metric: survival_loss: 0.710386
+--- 2024-07-15 19:12:40.107108 ---
+epoch 30
+early stop metric: 0.673883
+Phase: valid, metric: survival_loss: 0.673883
+Phase: test, metric: survival_loss: 0.708698
+--- 2024-07-15 19:12:40.205567 ---
+epoch 31
+early stop metric: 0.675781
+Phase: valid, metric: survival_loss: 0.675781
+Phase: test, metric: survival_loss: 0.711145
+--- 2024-07-15 19:12:40.352212 ---
+epoch 32
+early stop metric: 0.674835
+Phase: valid, metric: survival_loss: 0.674835
+Phase: test, metric: survival_loss: 0.710711
+--- 2024-07-15 19:12:40.452914 ---
+epoch 33
+early stop metric: 0.673983
+Phase: valid, metric: survival_loss: 0.673983
+Phase: test, metric: survival_loss: 0.711261
+--- 2024-07-15 19:12:40.552101 ---
+epoch 34
+early stop metric: 0.674627
+Phase: valid, metric: survival_loss: 0.674627
+Phase: test, metric: survival_loss: 0.711523
+--- 2024-07-15 19:12:40.652102 ---
+epoch 35
+early stop metric: 0.673552
+Phase: valid, metric: survival_loss: 0.673552
+Phase: test, metric: survival_loss: 0.711256
+--- 2024-07-15 19:12:40.802739 ---
+epoch 36
+early stop metric: 0.674542
+Phase: valid, metric: survival_loss: 0.674542
+Phase: test, metric: survival_loss: 0.711494
+--- 2024-07-15 19:12:40.901791 ---
+epoch 37
+early stop metric: 0.673487
+Phase: valid, metric: survival_loss: 0.673487
+Phase: test, metric: survival_loss: 0.712426
+--- 2024-07-15 19:12:41.002894 ---
+epoch 38
+early stop metric: 0.673858
+Phase: valid, metric: survival_loss: 0.673858
+Phase: test, metric: survival_loss: 0.712907
+--- 2024-07-15 19:12:41.149203 ---
+epoch 39
+early stop metric: 0.674140
+Phase: valid, metric: survival_loss: 0.674140
+Phase: test, metric: survival_loss: 0.712676
+--- 2024-07-15 19:12:41.251073 ---
+epoch 40
+early stop metric: 0.674024
+Phase: valid, metric: survival_loss: 0.674024
+Phase: test, metric: survival_loss: 0.712776
+--- 2024-07-15 19:12:41.356360 ---
+epoch 41
+early stop metric: 0.674576
+Phase: valid, metric: survival_loss: 0.674576
+Phase: test, metric: survival_loss: 0.714578
+--- 2024-07-15 19:12:41.512409 ---
+epoch 42
+early stop metric: 0.673996
+Phase: valid, metric: survival_loss: 0.673996
+Phase: test, metric: survival_loss: 0.713893
+--- 2024-07-15 19:12:41.611817 ---
+epoch 43
+early stop metric: 0.675358
+Phase: valid, metric: survival_loss: 0.675358
+Phase: test, metric: survival_loss: 0.714985
+--- 2024-07-15 19:12:41.712305 ---
+epoch 44
+early stop metric: 0.675450
+Phase: valid, metric: survival_loss: 0.675450
+Phase: test, metric: survival_loss: 0.714598
+--- 2024-07-15 19:12:41.859083 ---
+epoch 45
+early stop metric: 0.675019
+Phase: valid, metric: survival_loss: 0.675019
+Phase: test, metric: survival_loss: 0.713903
+--- 2024-07-15 19:12:41.960643 ---
+epoch 46
+early stop metric: 0.674507
+Phase: valid, metric: survival_loss: 0.674507
+Phase: test, metric: survival_loss: 0.715102
+--- 2024-07-15 19:12:42.061313 ---
+epoch 47
+early stop metric: 0.675699
+Phase: valid, metric: survival_loss: 0.675699
+Phase: test, metric: survival_loss: 0.715587
