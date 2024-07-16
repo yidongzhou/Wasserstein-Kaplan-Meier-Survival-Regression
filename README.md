@@ -20,7 +20,7 @@ R scripts implementing the proposed dynamic modeling approach.
 | Data files | Usage                                        |
 |:-----------|:---------------------------------------------|
 | wkm.R      | Wasserstein-Kaplan-Meier Survival Regression |
-| wkmSim.R   | Wrapper function for simulations             |
+| wkmSim.R   | Simplified version of `wkm` for simulations  |
 
 ## data
 
