@@ -6,7 +6,7 @@ This repository contains codes necessary to replicate **Zhou and Müller (2024+)
 
 The folder structure of this repo is as follows:
 
-| Folder      | Usage                                                                                                     |
+| Folder      | Detail                                                                                                    |
 |:------------|:----------------------------------------------------------------------------------------------------------|
 | code        | R scripts for the proposed approach                                                                       |
 | data        | Data files                                                                                                |
@@ -15,14 +15,14 @@ The folder structure of this repo is as follows:
 
 ## code
 
-| Data files | Usage                                        |
+| Data file  | Detail                                       |
 |:-----------|:---------------------------------------------|
 | wkm.R      | Wasserstein-Kaplan-Meier Survival Regression |
 | wkmSim.R   | Simplified version of `wkm` for simulations  |
 
 ## data
 
-| Data files             | Details                                                               |
+| Data file              | Detail                                                                |
 |:-----------------------|:----------------------------------------------------------------------|
 | se1.RData, se2.RData   | Simulation results for subsection 5.2                                 |
 | sem.RData, sel.RData   | Simulation results for subsection S.2.1 of the Supplementary Material |
@@ -33,23 +33,23 @@ The folder structure of this repo is as follows:
 
 ## mdn
 
-| Data files | Details                                                                                              |
-|:-----------|:-----------------------------------------------------------------------------------------------------|
-| sim.py     | Python scripts to replicate Han et al. (2022 PMLR) in Subsection S.2.3 of the Supplementary Material |
+| Data file | Detail                                                                                               |
+|:----------|:-----------------------------------------------------------------------------------------------------|
+| sim.py    | Python scripts to replicate Han et al. (2022 PMLR) in Subsection S.2.3 of the Supplementary Material |
 
 ## sim
 
 R scripts to replicate simulation results in subsection 5.2 of the main text and Section S.2 of the Supplementary Material.
 
-| Data files | Details                                                |
-|:-----------|:-------------------------------------------------------|
-| sim.R      | Subsection 5.2                                         |
-| sim2.R     | Subsection S.2.1 of the Supplementary Material         |
-| simb.R     | Subsection S.2.2 of the Supplementary Material         |
-| simmdn.R   | Subsection S.2.3 of the Supplementary Material         |
-| simrsf.R   | Subsection S.2.4 of the Supplementary Material         |
-| simh.R     | Subsection S.2.5 of the Supplementary Material         |
-| vis.R      | Scripts to obtain the tables and boxplots in the paper |
+| Data file | Detail                                                 |
+|:----------|:-------------------------------------------------------|
+| sim.R     | Subsection 5.2                                         |
+| sim2.R    | Subsection S.2.1 of the Supplementary Material         |
+| simb.R    | Subsection S.2.2 of the Supplementary Material         |
+| simmdn.R  | Subsection S.2.3 of the Supplementary Material         |
+| simrsf.R  | Subsection S.2.4 of the Supplementary Material         |
+| simh.R    | Subsection S.2.5 of the Supplementary Material         |
+| vis.R     | Scripts to obtain the tables and boxplots in the paper |
 
 ## Report Errors
 
