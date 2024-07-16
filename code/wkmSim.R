@@ -1,5 +1,5 @@
 #' @title Wasserstein-Kaplan-Meier Survival Regression
-#' @description Wrapper function for simulations.
+#' @description Simplified version of \code{wkm} for simulations.
 #' @param y A matrix of quantile functions. Each row gives a quantile function.
 #' @param x An matrix of predictors. Each row gives a \eqn{p}-dimensional 
 #' predictor for the corresponding quantile function in \code{y}.
