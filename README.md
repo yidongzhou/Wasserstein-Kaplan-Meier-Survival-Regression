@@ -15,17 +15,12 @@ The folder structure of this repo is as follows:
 
 ## code
 
-R scripts implementing the proposed dynamic modeling approach.
-
 | Data files | Usage                                        |
 |:-----------|:---------------------------------------------|
 | wkm.R      | Wasserstein-Kaplan-Meier Survival Regression |
 | wkmSim.R   | Simplified version of `wkm` for simulations  |
 
 ## data
-
-Zhou and Müller (2024+) uses the following datasets, which are based on
-West Jr et al. (1997), Bachrach et al. (1999), and Tuddenham and Snyder (1954).
 
 | Data files             | Details                                                               |
 |:-----------------------|:----------------------------------------------------------------------|
@@ -35,6 +30,12 @@ West Jr et al. (1997), Bachrach et al. (1999), and Tuddenham and Snyder (1954).
 | sew.RData              | Simulation results for subsection S.2.3 of the Supplementary Material |
 | ser1.RData, ser2.RData | Simulation results for subsection S.2.4 of the Supplementary Material |
 | seh1.RData, seh2.RData | Simulation results for subsection S.2.5 of the Supplementary Material |
+
+## mdn
+
+| Data files | Details                                                                                              |
+|:-----------|:-----------------------------------------------------------------------------------------------------|
+| sim.py     | Python scripts to replicate Han et al. (2022 PMLR) in Subsection S.2.3 of the Supplementary Material |
 
 ## sim
 
