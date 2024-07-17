@@ -1,8 +1,0 @@
-{
-    "batch_size": 512,
-    "grad_clip": 100,
-    "learning_rate": 0.026227594896762903,
-    "momentum": 0.98451685212882,
-    "optim": "RMSprop",
-    "weight_decay": 3.410181516132517e-05
-}
