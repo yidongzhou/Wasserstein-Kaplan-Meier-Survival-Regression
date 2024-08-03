@@ -6,21 +6,21 @@
 #'     \item{censor}{Censoring indicator, where 0 indicates censored observations.}
 #'     \item{...}{Additional covariate columns.}
 #'   }
-#' @param optns A list of control options specified as `list(name = value)`. 
+#' @param optns A list of control options specified as \code{list(name = value)}. 
 #' See `Details'.
 #' @details
 #' Available control options:
 #'   \describe{
 #'     \item{lower}{The smallest possible survival time. Default is 0.}
-#'     \item{upper}{The largest possible survival time. Default is `Inf`.}
+#'     \item{upper}{The largest possible survival time. Default is \code{Inf}.}
 #'   }
-#' @return A `wkm` object, which is a list containing the following components:
+#' @return A \code{wkm} object, which is a list containing the following components:
 #'   \describe{
 #'     \item{subgroup}{A matrix of covariate values for each subgroup.}
-#'     \item{qf}{A matrix of quantile functions corresponding to `subgroup`. 
+#'     \item{qf}{A matrix of quantile functions corresponding to \code{subgroup}. 
 #'     Each row contains the quantile function of the survival time for a subgroup.}
 #'     \item{qfsupp}{A numeric vector representing the domain grid of quantile 
-#'     functions in `qf`.}
+#'     functions in \code{qf}.}
 #'     \item{df}{The input data frame.}
 #'     \item{optns}{The control options used.}
 #'   }
