@@ -19,7 +19,7 @@
 #'     \item{subgroup}{A matrix of covariate values for each subgroup.}
 #'     \item{qf}{A matrix of quantile functions corresponding to \code{subgroup}. 
 #'     Each row contains the quantile function of the survival time for a subgroup.}
-#'     \item{qfsupp}{A numeric vector representing the domain grid of quantile 
+#'     \item{qfSupp}{A numeric vector representing the domain grid of quantile 
 #'     functions in \code{qf}.}
 #'     \item{df}{The input data frame.}
 #'     \item{optns}{The control options used.}
@@ -121,12 +121,12 @@ wkm <- function(df = NULL, optns = list()) {
     qNew <- pmax(qNew, optns$lower)
     qf[i, ] <- qNew
   }
-  qfsupp <- 1:M / M
+  qfSupp <- 1:M / M
   
   res <- list(
     subgroup = x0,
     qf = qf,
-    qfsupp = qfsupp,
+    qfSupp = qfSupp,
     df = df,
     optns = optns
   )

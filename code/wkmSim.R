@@ -14,7 +14,7 @@
 #' @return A list containing the following fields:
 #' \item{qf}{A matrix of quantile functions corresponding to \code{xOut}. 
 #' Each row contains the quantile function of the survival time for a predctor level.}
-#' \item{qfsupp}{A numeric vector representing the domain grid of quantile 
+#' \item{qfSupp}{A numeric vector representing the domain grid of quantile 
 #' functions in `qf`.}
 #' \item{y}{The quantile functions used.}
 #' \item{x}{The predictors used.}
@@ -87,11 +87,11 @@ wkm <- function(y = NULL,
     qNew <- pmax(qNew, optns$lower)
     qf[i, ] <- qNew
   }
-  qfsupp <- 1:M / M
+  qfSupp <- 1:M / M
   res <-
     list(
       qf = qf,
-      qfsupp = qfsupp,
+      qfSupp = qfSupp,
       y = y,
       x = x,
       xOut = xOut,
