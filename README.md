@@ -62,7 +62,7 @@ entry-spacing="0">
 
 <div id="ref-imbensxu" class="csl-entry">
 
-Zhou, Y. and Müller, H.G., 2024. Wasserstein-Kaplan-Meier Survival Regression. Journal of Computational and Graphical Statistics, (just-accepted), pp.1-16.
+Zhou, Y. and Müller, H.G., 2024. [Wasserstein-Kaplan-Meier Survival Regression](https://yidongzhou.github.io/assets/files/wkm.pdf). Journal of Computational and Graphical Statistics, (just-accepted), pp.1-16.
 
 </div>
 
